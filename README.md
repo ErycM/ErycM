@@ -1,48 +1,31 @@
-# Eryc Masselli
-**Analytics Engineer | Data Analytics | Oracle Retail | BI**  
-📧 erycmasselli@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/eryc-masselli/) | [GitHub](https://github.com/ErycM)  
-📞 (41) 99284-7963  
-📍 Curitiba - PR - Brazil
+# Hi there 👋, I'm Eryc Masselli!
 
-## Summary
-With 6 years of experience in data analysis, specializing in product analytics. Skilled in tools like DBT, Looker, BigQuery, SQL, and Python. Worked in sectors such as media, e-commerce, and retail. Currently, a Data Analyst at Compra Rápida, focusing on product analytics to optimize customer experience and the checkout process. Career collaborations with companies like Weee!, Renner, and Marisa.
+I'm an Analytics Engineer specializing in Data Analytics, Oracle Retail, and Business Intelligence (BI). With over 6 years of experience in data analysis, I've honed my skills in various tools and technologies like DBT, Looker, BigQuery, SQL, and Python. I thrive in sectors such as media, e-commerce, and retail, currently working as a Senior Data Analyst at Compra Rápida, where I focus on product analytics to enhance customer experience and optimize the checkout process.
 
-## Experience
+## 🛠️ Technologies & Tools
+- **Languages**: SQL, Python, Java
+- **Big Data**: BigQuery (GCP), Redshift (AWS)
+- **BI Tools**: Looker, Metabase, Power BI
+- **Version Control**: Git
+- **Other Tools**: DBT, GrowthBook, Datadog
 
-### Compra Rápida (YC W22)
-**Senior Data Analyst** | October 2022 - Present  
-Compra Rápida is checkout made easy, providing a mobile-first purchase experience through a 1-click checkout to leverage merchant sales. Responsible for data model creation, KPI definition, optimizations, and dashboard development for Product and Marketing teams. Utilizing a robust suite of data analysis tools to drive company growth and improve customer experience by transforming raw data into actionable insights, aiding in reaching expansion and innovation goals.  
-**Skills**: SQL, Python, BigQuery, Git, Metabase, DBT, GrowthBook, and Datadog.
+## 📈 Experience
+- **Senior Data Analyst** at Compra Rápida (YC W22) (Oct 2022 - Present)
+- **Data Analyst** at Brasil Paralelo (Oct 2022 - Mar 2023)
+- **Analytics Engineer** at Weee! (Nov 2021 - Oct 2022)
+- **Senior RPAS Consultant** at Logic Information Systems (Dec 2016 - Nov 2021)
 
-### Brasil Paralelo
-**Data Analyst** | October 2022 - March 2023  
-Media technology company with proprietary launches and a proprietary video streaming platform. Served as a data analyst and analytics engineer on the data team, responsible for model creation, KPIs, optimizations, and dashboards for the Product and Marketing teams.  
-**Skills**: SQL, Python, Bigquery, GCP, Git, Looker, Looker Studio, and DBT.
+## 🎓 Education
+- **Data Science Course** at Awari (May 2021 - Sep 2021)
+- **Computer Engineering** at UNINTER International University (2017 - 2021)
+- **Computer Engineering** at Federal Technological University of Paraná (2014 - 2016)
 
-### Weee!
-**Analytics Engineer** | November 2021 – October 2022  
-Retail company specializing in supermarket product delivery, working as a data analyst to extract information for report creation, dashboards, and indicators for stakeholders. Collaborated directly with marketing, product, and Supply Chain teams.  
-**Skills**: SQL, Python, Bigquery (GCP), Redshift (AWS), Data Studio, Tableau, Git, and Java.
+## 📞 Contact Me
+- [LinkedIn](https://linkedin.com/in/eryc-masselli/)
+- Email: erycmasselli@gmail.com
 
-### Logic Information Systems
-**Senior RPAS Consultant** | December 2016 – November 2021  
-Led the implementation of RPAS solutions for multiple Brazilian clients, improving their planning and data flow operations. Identified client requirements and implemented BI projects, working with renowned clients like Renner, Marisa, Pernambucanas, and Snipes USA.  
-**Skills**: Oracle RPAS, SQL, Python, Snowflake, Looker, Power BI, Shell Script, Perl, RMA, RMS, ODI, Kafka, and CA Workload Automation.
+## 🔍 Currently Working On
+- Optimizing checkout processes at Compra Rápida to enhance customer experience and drive merchant sales.
+- Developing data models, defining KPIs, and creating dashboards for Product and Marketing teams.
 
-### Gempe Information Technology Solutions
-**Software Developer** | January 2016 – December 2016  
-Development of hybrid systems with HTML, CSS, Javascript, Angularjs, Ionic Firebase, and SQL.
-
-## Language
-- English: Advanced Level
-
-## Education
-- **Awari**  
-  Data Science Course | May 2021 - September 2021
-
-- **UNINTER International University**  
-  Computer Engineering | 2017 - 2021
-
-- **Federal Technological University of Paraná**  
-  Computer Engineering | 2014 - 2016
+Feel free to take a look at my repositories and don't hesitate to reach out if you'd like to collaborate on a project or discuss any data-driven opportunity!
