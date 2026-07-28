@@ -1,31 +1,30 @@
-# Hi there 👋, I'm Eryc Masselli!
+# Eryc Masselli
 
-I'm an Analytics Engineer specializing in Data Analytics, Oracle Retail, and Business Intelligence (BI). With over 6 years of experience in data analysis, I've honed my skills in various tools and technologies like DBT, Looker, BigQuery, SQL, and Python. I thrive in sectors such as media, e-commerce, and retail, currently working as a Senior Data Analyst at Compra Rápida, where I focus on product analytics to enhance customer experience and optimize the checkout process.
+Data Engineer. Retail planning and demand forecasting at scale, and the context layer that makes LLMs useful against real warehouses.
 
-## 🛠️ Technologies & Tools
-- **Languages**: SQL, Python, Java
-- **Big Data**: BigQuery (GCP), Redshift (AWS)
-- **BI Tools**: Looker, Metabase, Power BI
-- **Version Control**: Git
-- **Other Tools**: DBT, GrowthBook, Datadog
+## What I'm working on
 
-## 📈 Experience
-- **Senior Data Analyst** at Compra Rápida (YC W22) (Oct 2022 - Present)
-- **Data Analyst** at Brasil Paralelo (Oct 2022 - Mar 2023)
-- **Analytics Engineer** at Weee! (Nov 2021 - Oct 2022)
-- **Senior RPAS Consultant** at Logic Information Systems (Dec 2016 - Nov 2021)
+**Retail planning on Azure** — migrating Oracle Retail AIP/RDF workloads: inventory planning, demand forecasting, safety stock and replenishment logic, rebuilt in PySpark on Databricks and Delta Lake.
 
-## 🎓 Education
-- **Data Science Course** at Awari (May 2021 - Sep 2021)
-- **Computer Engineering** at UNINTER International University (2017 - 2021)
-- **Computer Engineering** at Federal Technological University of Paraná (2014 - 2016)
+**Context Warehouse** — a metadata layer over dbt and BigQuery that gives LLM agents structured access to a warehouse: model catalog, business rules, query patterns, lineage. Python, dbt, FastMCP. Built at Compra Rápida (YC W22).
 
-## 📞 Contact Me
-- [LinkedIn](https://linkedin.com/in/eryc-masselli/)
-- Email: erycmasselli@gmail.com
+**Context Layer Benchmark** (in progress) — measuring how much text-to-SQL accuracy each layer of semantic context actually buys, by ablation. Synthetic hostile retail schema, results published alongside the code that produced them.
 
-## 🔍 Currently Working On
-- Optimizing checkout processes at Compra Rápida to enhance customer experience and drive merchant sales.
-- Developing data models, defining KPIs, and creating dashboards for Product and Marketing teams.
+## Stack
 
-Feel free to take a look at my repositories and don't hesitate to reach out if you'd like to collaborate on a project or discuss any data-driven opportunity!
+Python · SQL · PySpark · Databricks · Delta Lake · Azure · dbt · BigQuery · DuckDB · MCP / FastMCP
+
+Previously: Looker, Metabase, Redshift, and five years of Oracle Retail RPAS/RDF consulting.
+
+## Background
+
+- Senior Data Analyst — Compra Rápida, YC W22 (2022–present)
+- Data Analyst — Brasil Paralelo (2022–2023)
+- Analytics Engineer — Weee! (2021–2022)
+- Senior RPAS Consultant — Logic Information Systems (2016–2021)
+
+Computer Engineering — UNINTER, UTFPR.
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/eryc-masselli/) · erycmasselli@gmail.com
